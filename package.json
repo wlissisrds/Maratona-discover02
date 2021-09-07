@@ -1,0 +1,15 @@
+{
+  "name": "maratorna",
+  "version": "",
+  "description": "Freelancer calculator",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "scripts": {
+    "devStart": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
